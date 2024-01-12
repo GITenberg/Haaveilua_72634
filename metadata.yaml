@@ -1,0 +1,30 @@
+_repo: Haaveilua_72634
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Auer, Vihtori
+    gutenberg_agent_id: '56757'
+    url: http://www.gutenberg.org/2009/agents/56757
+creator:
+  author:
+    agent_name: Lundegård-Hagberg, Marianne
+    gutenberg_agent_id: '56756'
+    url: http://www.gutenberg.org/2009/agents/56756
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72634'
+language: fi
+pgterms:marc905: 20231009072243lundegrdha
+pgterms:marc906: '1905'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aKotka :$bEtelä-Suomen Kirjapaino, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Haaveilua
+url: http://www.gutenberg.org/ebooks/72634
