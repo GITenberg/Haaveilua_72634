@@ -5,12 +5,17 @@ contributor:
     agent_name: Auer, Vihtori
     gutenberg_agent_id: '56757'
     url: http://www.gutenberg.org/2009/agents/56757
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lundegård-Hagberg, Marianne
     gutenberg_agent_id: '56756'
     url: http://www.gutenberg.org/2009/agents/56756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72634#Haaveilua
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
